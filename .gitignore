@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Caso o virtualenv seja criado acidentalmente na raiz
+bin/
+lib/
+lib64/
+share/
+etc/
+pyvenv.cfg
